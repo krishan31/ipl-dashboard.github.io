@@ -24,6 +24,7 @@ BallbyBall data and match data has been taken from kaggle and preprocessed Local
  1. Inlined the Svg icons that were used in the appplication using vue-svgicon.
  2. Design - All the color used from Palette using the google Palette package.
  3. Inlined the Json data file Used the Csv data to import on Mysql Database.
+ 4. Better Memory Utilization, Avoid rewriting of same code.
  
  # Mobile Responsive
  1. Made the app responsive with the self written Media QUERY
